@@ -72,7 +72,6 @@ Use a supported physical device to validate step tracking.
 
 ## Repository notes
 
-- This is a collaborative project; the repository does not claim sole authorship.
 - Local Dart import/export targets were checked in the supplied export. Compilation and runtime behavior have not been verified.
 - Embedded service keys were removed from the prepared source. The affected integrations require reconfiguration; private service credentials should be handled by a backend rather than embedded in a distributed client.
 - Browser profiles and generated build caches are excluded from the prepared source.
