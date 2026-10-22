@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864916292024",
+    "project_id": "yaqada-a",
+    "storage_bucket": "yaqada-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864916292024:android:440af8655d8ab58f664f4d",
+        "android_client_info": {
+          "package_name": "com.mycompany.yaqadaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9CUvjMmBv4zuCRrcEezkJcsNpp6d1SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
