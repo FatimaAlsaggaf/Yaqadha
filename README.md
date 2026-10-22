@@ -2,9 +2,6 @@
 
 A digital wellness platform that makes healthy habits more engaging through personalized challenges, gamification, community interaction, and progress tracking.
 
-**Winner of the 6th Academic Projects Competition** · [Portfolio](https://fatima-alsaggaf-portfolio.vercel.app/)
-
-![Yaqadha project poster and application screens](https://fatima-alsaggaf-portfolio.vercel.app/images/projects/yaqadha.jpg)
 
 ## The problem
 
@@ -80,10 +77,4 @@ Use a supported physical device to validate step tracking.
 - Embedded service keys were removed from the prepared source. The affected integrations require reconfiguration; private service credentials should be handled by a backend rather than embedded in a distributed client.
 - Browser profiles and generated build caches are excluded from the prepared source.
 - The image above comes from the project portfolio. A public interactive demo is not currently linked.
-
-## بالعربية
-
-يقظة منصة للصحة الرقمية ونمط الحياة النشط، تجعل بناء العادات الصحية أكثر تفاعلًا من خلال التحديات اليومية والمخصصة، وتتبع العادات وسلاسل الاستمرارية، والنقاط والمجتمعات. تتضمن الفكرة منافسات بين مناطق المملكة وأهدافًا مشتركة للعافية مستوحاة من توجه رؤية السعودية 2030.
-
-**فاز المشروع في مسابقة المشاريع الأكاديمية السادسة.**
 
