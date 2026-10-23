@@ -1,5 +1,7 @@
 # Yaqadha | يقظة
 
+![Yaqadha project poster](https://fatima-alsaggaf-portfolio.vercel.app/images/projects/yaqadha.jpg)
+
 A digital wellness platform that makes healthy habits more engaging through personalized challenges, gamification, community interaction, and progress tracking.
 
 
