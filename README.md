@@ -2,8 +2,9 @@
 
 ![Yaqadha project poster](https://fatima-alsaggaf-portfolio.vercel.app/images/projects/yaqadha.jpg)
 
-A digital wellness platform that makes healthy habits more engaging through personalized challenges, gamification, community interaction, and progress tracking.
+Yaqadha is an AI-powered wellness application that encourages healthier lifestyles through personalized challenges, gamification, and community-driven activities.
 
+🏆 **Award-Winning Project — Winner of the 6th Academic Projects Competition, King Saud University.**
 
 ## The problem
 
@@ -29,15 +30,13 @@ Yaqadha encourages an active lifestyle through personalized challenges and rewar
 | App development | FlutterFlow, Flutter, Dart |
 | Backend | Firebase |
 | AI integration | Gemini API |
-| Activity integration listed in the portfolio | Google Fit API |
-
-The supplied Flutter export also contains custom step-detection code using device sensors. The Google Fit integration listed in the portfolio has not yet been verified in this export.
+| Activity tracking | Device sensors (custom step-detection code) |
 
 ## Achievement
 
-**Winner of the 6th Academic Projects Competition.**
+**Winner of the 6th Academic Projects Competition — King Saud University.**
 
-References linked from the portfolio: [Hackathonat](https://x.com/hackathonat/status/2028184903179751630?s=46) · [KSU Software Engineering](https://x.com/ksu_swe/status/2030716932337394169?s=46).
+Project references: [Hackathonat](https://x.com/hackathonat/status/2028184903179751630?s=46) · [KSU Software Engineering](https://x.com/ksu_swe/status/2030716932337394169?s=46).
 
 ## Project structure
 
@@ -58,23 +57,23 @@ web/              Web project
 
 ## Getting started
 
-The source was exported from FlutterFlow. Its manifest requires Dart `>=3.0.0 <4.0.0`, and its original documentation specifies Flutter stable. The exact working Flutter version still needs to be verified.
+The source code was exported from FlutterFlow. The project requires Dart `>=3.0.0 <4.0.0` and a compatible Flutter SDK; the exact working Flutter version has not yet been verified.
 
-1. Install a compatible Flutter SDK and run `flutter doctor` for your target platform.
-2. Configure your own development Firebase project. Replace the Firebase client configuration and review the rules and functions in `firebase/` before deployment.
-3. Run these commands from the project root:
+1. Install Flutter and run `flutter doctor` for your target platform.
+2. Configure a development Firebase project and any required API integrations. Review the Firebase rules and functions before deployment.
+3. Run the following commands from the project root:
 
-```sh
+```bash
 flutter pub get
 flutter analyze
 flutter run
 ```
 
-Use a supported physical device to validate step tracking.
+## Development notes
 
-## Repository notes
+- The source code was exported from FlutterFlow.
+- A development Firebase project and API configuration are required to run the application.
+- Device-based features should be tested on a supported physical device.
+- Compilation and runtime validation are still pending.
 
-- Local Dart import/export targets were checked in the supplied export. Compilation and runtime behavior have not been verified.
-- Embedded service keys were removed from the prepared source. The affected integrations require reconfiguration; private service credentials should be handled by a backend rather than embedded in a distributed client.
-- Browser profiles and generated build caches are excluded from the prepared source.
-
+Sensitive credentials are excluded from the public repository.
