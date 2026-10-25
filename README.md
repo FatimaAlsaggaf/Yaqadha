@@ -72,7 +72,5 @@ flutter run
 
 - The source code was exported from FlutterFlow.
 - A development Firebase project and API configuration are required to run the application.
-- Device-based features should be tested on a supported physical device.
-- Compilation and runtime validation are still pending.
 
 Sensitive credentials are excluded from the public repository.
