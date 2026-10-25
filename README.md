@@ -4,7 +4,6 @@
 
 Yaqadha is an AI-powered wellness application that encourages healthier lifestyles through personalized challenges, gamification, and community-driven activities.
 
-🏆 **Award-Winning Project — Winner of the 6th Academic Projects Competition, King Saud University.**
 
 ## The problem
 
@@ -34,7 +33,7 @@ Yaqadha encourages an active lifestyle through personalized challenges and rewar
 
 ## Achievement
 
-**Winner of the 6th Academic Projects Competition — King Saud University.**
+🏆 **Award-Winning Project — Winner of the 6th Academic Projects Competition, King Saud University.**
 
 Project references: [Hackathonat](https://x.com/hackathonat/status/2028184903179751630?s=46) · [KSU Software Engineering](https://x.com/ksu_swe/status/2030716932337394169?s=46).
 
